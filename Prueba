@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Ejercicio 1</title>
+  </head>
+  <body>
+    <h1>Mi primer ejercicio</h1>
+    <p>Este es mi <b>primer</b> ejercicio de <i>prueba</i> de html.</p>
+    <p>A ver <u>que tal</u> sale.</p>
+  </body>
+</html>
