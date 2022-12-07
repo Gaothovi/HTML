@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>   
+    <meta charset="utf-8" />
+    <title>Ejercicio 3</title> 
+  </head>
+
+  <body>
+    <p>
+      <a href="https://www.linkedin.com/in/christian-seiffert-37084835/">Enlace Externo</a>
+    </p>
+    <p>
+      <a href="https://www.linkedin.com/in/christian-seiffert-37084835/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/640px-Flag_of_Germany.svg.png" />
+    </p>    
+  </body>
+</html>
